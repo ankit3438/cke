@@ -2,7 +2,7 @@
 Write a program pp010.c, include the header file into it. Create the main() function  to input a number and check it to be
 even or odd using iseven() function.*/
 #include<stdio.h>
-#include "qqp.h"
+#include "pp010.h"
 int is_even(int n);
 void main()
 {
